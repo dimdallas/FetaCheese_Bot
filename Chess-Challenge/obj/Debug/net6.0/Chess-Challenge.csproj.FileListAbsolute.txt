@@ -1,0 +1,49 @@
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/resources/Fens.txt
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/resources/Pieces.png
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/Chess-Challenge
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/src/Evil Bot/EvilBot.cs
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/src/My Bot/MyBot.cs
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/resources/Fonts/OPENSANS-SEMIBOLD.TTF
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/resources/Fonts/sdf.fs
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/Chess-Challenge.deps.json
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/Chess-Challenge.runtimeconfig.json
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/Chess-Challenge.dll
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/Chess-Challenge.pdb
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/Raylib-cs.dll
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/runtimes/linux-x64/native/libraylib.so
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/runtimes/osx-arm64/native/libraylib.dylib
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/runtimes/osx-x64/native/libraylib.dylib
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/runtimes/win-x64/native/raylib.dll
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/runtimes/win-x86/native/raylib.dll
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/obj/Debug/net6.0/Chess-Challenge.csproj.AssemblyReference.cache
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/obj/Debug/net6.0/Chess-Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/obj/Debug/net6.0/Chess-Challenge.AssemblyInfoInputs.cache
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/obj/Debug/net6.0/Chess-Challenge.AssemblyInfo.cs
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/obj/Debug/net6.0/Chess-Challenge.csproj.CoreCompileInputs.cache
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/obj/Debug/net6.0/Chess-Challenge.csproj.CopyComplete
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/obj/Debug/net6.0/Chess-Challenge.dll
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/obj/Debug/net6.0/refint/Chess-Challenge.dll
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/obj/Debug/net6.0/Chess-Challenge.pdb
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/obj/Debug/net6.0/Chess-Challenge.genruntimeconfig.cache
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/obj/Debug/net6.0/ref/Chess-Challenge.dll
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/src/My Bot/MyBot_negamax2_static.cs
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/src/My Bot/MyBot_ab_static_checks.cs
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/src/My Bot/MyBot_ab3_ordering_static_checks.cs
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/src/My Bot/MyBot_ab3_ordering_static_trapKing.cs
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/src/My Bot/MyBot_nonAlloc.cs
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/src/My Bot/MyBot_ab_qdelta_mat_trapking_ttEndgame.cs
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/src/My Bot/MyBot_v1_mobility.cs
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/src/My Bot/MyBot_v1.cs
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/src/My Bot/MyBot_v2_endgameTT_ab-depth2_delta-qsearch_mat-bal_min-mob_pawnless-mopup.cs
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/src/My Bot/MyBot_v3_iterative.cs
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/src/My Bot/MyBot_v3_lessToken_betterEndgame.cs
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/src/My Bot/MyBot_v4_centerControl.cs
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/src/My Bot/MyBot_v5_mates_repCheck.cs
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/src/My Bot/MyBot_v5_noEarlyDepthBound_1099Tokens.cs
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/src/My Bot/MyBot_v5_partialMobility_980.cs
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/src/My Bot/MyBot_v6_betterAllocation_992.cs
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/src/My Bot/MyBot_v6_bestMovesSet.cs
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/src/My Bot/MyBot_v7_deltaPruning.cs
+/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/bin/Debug/net6.0/src/My Bot/MyBot_v8_timeManagement_1021.cs

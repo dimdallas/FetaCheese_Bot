@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nWl7VAoGyWCeKa1GLnETaME64xzG0iNs6I8678giU2u4N4rvFLvDd77hX2m50ScLbfZ0p5S3Y3h72UJv72I8TA==",
+  "success": true,
+  "projectFilePath": "/home/ddallas/RiderProjects/Chess-Challenge/Chess-Challenge/Chess-Challenge.csproj",
+  "expectedPackageFiles": [
+    "/home/ddallas/.nuget/packages/raylib-cs/4.5.0.2/raylib-cs.4.5.0.2.nupkg.sha512",
+    "/home/ddallas/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
