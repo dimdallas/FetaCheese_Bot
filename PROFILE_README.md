@@ -12,9 +12,9 @@ I'm a passionate software developer with expertise in algorithms, game developme
 
 ### Technologies & Tools
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![WebXR](https://img.shields.io/badge/WebXR-3A76CF?style=for-the-badge&logo=webxr&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🔥 Featured Projects
@@ -37,75 +37,96 @@ A competitive chess bot written in C# that implements advanced game AI within st
 
 ---
 
-### 🐳 DockerCICD
-**Full-Stack Video Streaming Platform with CI/CD Pipeline**
+### 🌐 WebXR_ThetaV
+**360-Degree Video Live-Streaming with Unity and WebXR**
 
-A comprehensive streaming platform built with Python Flask and MySQL, demonstrating modern DevOps practices.
+A cutting-edge VR streaming solution combining Ricoh Theta V camera, Unity, and WebXR for immersive 360-degree video experiences.
+
+**Technical Highlights:**
+- Real-time 360-degree video streaming
+- Unity-based VR environment
+- WebXR integration for cross-platform VR support
+- Ricoh Theta V camera integration
+- Low-latency live streaming implementation
+- Browser-based VR experience
+
+🔗 [View Repository](https://github.com/dimdallas/WebXR_ThetaV) | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp) ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity) ![WebXR](https://img.shields.io/badge/-WebXR-3A76CF?style=flat-square)
+
+---
+
+### 💬 Messaging_Groups_Application
+**Distributed Multi-Cast Messaging System**
+
+A robust server-client distributed application featuring group management and reliable multicast communication protocols.
+
+**Key Features:**
+- Server-client distributed architecture
+- Group management service
+- FIFO Reliable Multi-cast protocol
+- TOTAL Reliable Multi-cast protocol
+- Message ordering and consistency guarantees
+- Scalable client communication
+
+🔗 [View Repository](https://github.com/dimdallas/Messaging_Groups_Application) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk)
+
+---
+
+### 🗂️ LAN_File_System
+**Network File System with Cache Mechanism**
+
+A distributed file system implementation using server-client architecture with intelligent caching for local network operations.
+
+**Architecture:**
+- Server-client network file system
+- Distributed cache memory mechanism
+- Local network file operations
+- Efficient file synchronization
+- Cache coherency protocols
+- Multi-client support
+
+🔗 [View Repository](https://github.com/dimdallas/LAN_File_System) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk)
+
+---
+
+### 📁 File_Browser
+**Custom File Browser UI Implementation**
+
+A custom-built file browser interface demonstrating advanced UI design and file system interaction.
 
 **Features:**
-- User authentication and session management
-- Video upload and storage with virtual file system
-- Database-driven content streaming
-- Docker Compose for multi-container orchestration
-- Complete CI/CD pipeline implementation
-- RESTful API architecture
+- Custom file browser user interface
+- File system navigation and management
+- Directory traversal functionality
+- File operations (view, select, organize)
+- Clean and intuitive design
+- Cross-platform file handling
 
-🔗 [View Repository](https://github.com/dimdallas/DockerCICD) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-
----
-
-### 🃏 OldMaidGame_Multithread
-**Card Game Simulation with Java Multithreading**
-
-A concurrent programming showcase implementing the classic Old Maid card game with advanced Java threading mechanisms.
-
-**Technical Focus:**
-- Java concurrent programming patterns
-- Thread synchronization and coordination
-- Race condition handling
-- Deadlock prevention strategies
-- Multi-player game state management
-
-🔗 [View Repository](https://github.com/dimdallas/OldMaidGame_Multithread) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk)
+🔗 [View Repository](https://github.com/dimdallas/File_Browser) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk)
 
 ---
 
-### 🎮 UNO Card Game Terminal
-**Interactive UNO Game Implementation**
+### 🔄 FlaskReverseProxy
+**HTTP/HTTPS Reverse Proxy with CORS & MJPEG Support**
 
-A terminal-based implementation of the popular UNO card game, showcasing object-oriented design and game logic.
+A flexible reverse proxy built with Flask, designed for streaming applications with full CORS support and HTTPS capabilities.
 
-**Implementation Highlights:**
-- Complete UNO game rules and mechanics
-- Terminal-based user interface
-- Object-oriented architecture
-- Game state management
-- Player interaction system
+**Technical Features:**
+- HTTP and HTTPS reverse proxy
+- CORS headers for OPTIONS requests
+- MJPEG stream restreaming
+- Built for OSC API compatibility (Ricoh Theta V)
+- Secure connection handling
+- Custom routing and middleware
 
-🔗 [View Repository](https://github.com/dimdallas/UNO_cardgame_terminal) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk)
-
----
-
-### 🤝 Git-collaborative
-**Collaborative Development Learning Environment**
-
-A practice project simulating real-world collaborative Git workflows and team development scenarios.
-
-**Learning Objectives:**
-- Git branching strategies
-- Merge conflict resolution
-- Pull request workflows
-- Code review practices
-- Collaborative development patterns
-
-🔗 [View Repository](https://github.com/dimdallas/Git-collaborative) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+🔗 [View Repository](https://github.com/dimdallas/FlaskReverseProxy) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
 
 ## 🎯 Areas of Expertise
 
 - **Game AI & Algorithms**: Chess engines, search algorithms, heuristic evaluation, optimization
+- **VR/XR Development**: WebXR integration, 360-degree video streaming, Unity development
+- **Distributed Systems**: Network file systems, reliable multicast protocols, cache coherency
+- **Network Programming**: Reverse proxies, HTTP/HTTPS servers, streaming protocols
 - **Concurrent Programming**: Multithreading, synchronization, parallel processing
-- **DevOps & Infrastructure**: Docker, CI/CD pipelines, containerization, deployment automation
-- **Web Development**: Full-stack applications, RESTful APIs, database design
 - **Software Engineering**: OOP design, design patterns, clean code practices
 
 ## 📊 GitHub Statistics
@@ -119,18 +140,20 @@ A practice project simulating real-world collaborative Git workflows and team de
 ## 🌟 Project Highlights
 
 - **Advanced AI Implementation**: Built a competitive chess engine with sophisticated search algorithms and evaluation functions
-- **Full-Stack Development**: Created end-to-end applications with authentication, databases, and file systems
-- **Concurrent Systems**: Mastered Java multithreading with practical game implementations
-- **DevOps Practices**: Implemented Docker containerization and CI/CD pipelines for automated deployments
-- **Code Optimization**: Specialized in writing efficient, constraint-based code solutions
+- **VR/XR Innovation**: Developed immersive 360-degree video streaming with WebXR and Unity for cross-platform VR experiences
+- **Distributed Systems**: Architected network file systems and reliable multicast messaging systems with cache mechanisms
+- **Network Engineering**: Implemented reverse proxies and streaming servers with CORS support and HTTPS security
+- **Concurrent Programming**: Mastered multithreading, synchronization, and distributed system coordination
+- **UI Development**: Created custom file browsers and user interfaces with intuitive design patterns
 
 ## 🎓 Continuous Learning
 
 Currently exploring:
-- Advanced chess programming techniques and optimization
-- Cloud deployment and microservices architecture
-- Machine learning applications in game AI
-- Performance profiling and code optimization
+- WebXR and immersive web technologies
+- Advanced distributed systems and consensus algorithms
+- Real-time streaming protocols and optimization
+- Game AI and chess programming techniques
+- Network security and protocol design
 
 ## 📫 Connect With Me
 
